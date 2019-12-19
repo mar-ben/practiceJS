@@ -1,3 +1,6 @@
 "# practiceJS" 
 
 Topics
+
+functions
+
