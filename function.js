@@ -17,7 +17,7 @@ const power=(base,exponent)=>{
 
 console.log('(2^2)= ' + power(2,2))
 
-
+console.log("test");
 //arrow function with single parameter.
 
 const square2= x => x*x;
